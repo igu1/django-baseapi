@@ -2,6 +2,6 @@ include README.md
 
 include LICENSE
 
-recursive-include ez_baseapi *.py
+recursive-include django_baseapi *.py
 
 include requirements.txt
