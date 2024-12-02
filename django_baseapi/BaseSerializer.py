@@ -61,4 +61,4 @@ class BaseSerializer(serializers.ModelSerializer):
     class Meta:
         model = None
         fields = "__all__"
-        depth = 0
+        depth = None
